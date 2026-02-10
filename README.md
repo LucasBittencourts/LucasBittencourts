@@ -14,7 +14,7 @@
 ## 💼 Sobre Mim
 
 - 🔧 **Especialista em Automação** com foco em marketing digital e e-commerce
-- 🤖 Criador do **Point das Promos** - sistema de automação de afiliados com IA
+- 🤖 Cocriador do **Point das Promos** - sistema de automação de afiliados com IA
 - 📊 **Resultados:** Processamento de 3000+ ofertas/mês com zero duplicatas
 
 ---
